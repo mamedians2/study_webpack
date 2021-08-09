@@ -1,2 +1,7 @@
 # study_webpack
-webpackの練習用（追々はテンプレート化させる）
+
+<!-- コンパイル -->
+npm run build
+
+<!-- watch -->
+npm run build --watch
